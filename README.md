@@ -255,9 +255,6 @@ Contributions are welcome! Please open issues or pull requests for features, bug
 
 ---
 
-## License
-MIT License. See [LICENSE](LICENSE) for details.
-
 ---
 
 **_Quespapgen – The fastest, smartest way to generate question papers with AI!_** 
